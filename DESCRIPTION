@@ -1,0 +1,15 @@
+Package: sageparenting
+Title: Sage Parenting
+Description: Just your average 1980s/1990s parent.
+Version: 1.0.0
+Date: 2020-10-12
+Authors@R: person(given="Emilio Xavier",
+                    family="Esposito",
+                    role=c("aut", "cre"),
+                    email="emilio.esposito@gmail.com",
+                    comment=c("ORCID"="0000-0002-6193-0485"))
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/emilioxavier/sageparenting
+BugReports: https://github.com/emilioxavier/sageparenting/issues
+RoxygenNote: 7.1.1
