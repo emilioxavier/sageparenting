@@ -31,7 +31,7 @@ devtools::install_github("emilioxavier/sageparenting")
 ``` r
 library(sageparenting)
 sage.parenting()
-#> [1] "~~~Muffled sob~~~ You better wipe that look off your face. :-["
+#> [1] "Why?    What were you thinking? Oh, that's right. You weren't. :-c"
 ```
 
 ## Have a suggestion? Need help? Found a bug?
@@ -39,7 +39,7 @@ sage.parenting()
   - Contact [Emilio](https://github.com/emilioxavier) at
     <emilio.esposito@gmail.com>
   - Submit an [issue via
-    GitHub](https://github.com/exeResearch/sageparenting/issues)
+    GitHub](https://github.com/emilioxavier/sageparenting/issues)
 
 ## Code of conduct
 
