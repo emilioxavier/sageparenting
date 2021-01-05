@@ -77,7 +77,7 @@ phrase <- c(
    "Don't make me raise my voice.",
    "Don't make say it again.",
    "Have you no respect for yourself and others?",
-   "Just a minute. [10 minutes past]",
+   "Just a minute. [10 minutes pass]",
    "Just go to your room.",
    "Just look at yourself.",
    "I can't right now. Go to your room.",
