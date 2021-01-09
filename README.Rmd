@@ -15,9 +15,11 @@ knitr::opts_chunk$set(
 # sageparenting: Mom and dad in your console.
 > "I'll give you something to cry about." -- Dad, circa 1985
 
+<!-- badges: start -->
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![CRAN_Release_Badge](http://www.r-pkg.org/badges/version-ago/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
 [![CRAN_Download_Badge](http://cranlogs.r-pkg.org/badges/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
+<!-- badges: end -->
 
 
 

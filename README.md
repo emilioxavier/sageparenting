@@ -5,11 +5,14 @@
 
 > “I’ll give you something to cry about.” – Dad, circa 1985
 
+<!-- badges: start -->
+
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
 developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![CRAN\_Release\_Badge](http://www.r-pkg.org/badges/version-ago/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
 [![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
+<!-- badges: end -->
 
 ## Installing `sageparenting`
 
@@ -31,7 +34,7 @@ devtools::install_github("emilioxavier/sageparenting")
 ``` r
 library(sageparenting)
 sage.parenting()
-#> [1] "JESUS CHRIST! You should know better. :c"
+#> [1] "~~~Mutters 'Why Dear God?'~~~ Don't make me raise my voice. :{"
 ```
 
 ## Have a suggestion? Need help? Found a bug?
