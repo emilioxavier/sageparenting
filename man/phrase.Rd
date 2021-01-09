@@ -12,6 +12,7 @@ phrase
 }
 \description{
 Collection of phrases muttered by parents.
+
   Not exported.
 }
 \author{

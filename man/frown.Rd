@@ -5,7 +5,7 @@
 \alias{frown}
 \title{Text-based Frowns}
 \format{
-An object of class \code{character} of length 30.
+An object of class \code{character} of length 28.
 }
 \usage{
 frown
@@ -14,6 +14,7 @@ frown
 Collection of text-based frowns to show additional displeasure.
   Based on emojis found in the [List of emoticons on Wikipedia]
   (https://en.wikipedia.org/wiki/List_of_emoticons)
+
   Not exported.
 }
 \author{

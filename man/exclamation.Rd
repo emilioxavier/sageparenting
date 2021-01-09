@@ -12,6 +12,7 @@ exclamation
 }
 \description{
 Collection of phrases used by parents to start a comment.
+
   Not exported.
 }
 \author{

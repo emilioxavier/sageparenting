@@ -23,7 +23,7 @@ NULL
 #' @examples
 #' set.seed(13)
 #' sage.parenting()
-#' # [1] "JESUS CHRIST! If you don't stop acting like this, we will go home right now. >:["
+#' # [1] "JESUS CHRIST! If you don't stop acting like this, we will go home right now. :@"
 #'
 #' @author Emilio Xavier Esposito \email{emilio.esposito@@gmail.com}
 #'
@@ -39,6 +39,7 @@ sage.parenting <- function() {
 
 #' @title Exclamations
 #' @description Collection of phrases used by parents to start a comment.
+#'
 #'   Not exported.
 #'
 #' @author Emilio Xavier Esposito \email{emilio.esposito@@gmail.com}
@@ -65,6 +66,7 @@ exclamation <- c(
 
 #' @title Phrases
 #' @description Collection of phrases muttered by parents.
+#'
 #'   Not exported.
 #'
 #' @author Emilio Xavier Esposito \email{emilio.esposito@@gmail.com}
@@ -139,14 +141,15 @@ phrase <- c(
 #' @description Collection of text-based frowns to show additional displeasure.
 #'   Based on emojis found in the [List of emoticons on Wikipedia]
 #'   (https://en.wikipedia.org/wiki/List_of_emoticons)
+#'
 #'   Not exported.
 #'
 #' @author Emilio Xavier Esposito \email{emilio.esposito@@gmail.com}
 #'
 frown <- c(
-   ")-:",
+   # ")-:",
    ":-(",
-   "):",
+   # "):",
    ":c",
    ":-<",
    ":<",
