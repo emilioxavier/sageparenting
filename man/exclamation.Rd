@@ -5,7 +5,7 @@
 \alias{exclamation}
 \title{Exclamations}
 \format{
-An object of class \code{character} of length 16.
+An object of class \code{character} of length 17.
 }
 \usage{
 exclamation

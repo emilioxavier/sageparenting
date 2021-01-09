@@ -23,7 +23,7 @@ NULL
 #' @examples
 #' set.seed(13)
 #' sage.parenting()
-#' # [1] "~~~Mutters 'Why me?'~~~ Can you do anything right? :-<"
+#' # [1] "JESUS CHRIST! If you don't stop acting like this, we will go home right now. >:["
 #'
 #' @author Emilio Xavier Esposito \email{emilio.esposito@@gmail.com}
 #'

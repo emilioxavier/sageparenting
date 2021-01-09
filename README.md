@@ -31,7 +31,7 @@ devtools::install_github("emilioxavier/sageparenting")
 ``` r
 library(sageparenting)
 sage.parenting()
-#> [1] "Why? What were you thinking? Oh, that's right. You weren't. :-c"
+#> [1] "JESUS CHRIST! You should know better. :c"
 ```
 
 ## Have a suggestion? Need help? Found a bug?

@@ -5,7 +5,7 @@
 \alias{phrase}
 \title{Phrases}
 \format{
-An object of class \code{character} of length 44.
+An object of class \code{character} of length 62.
 }
 \usage{
 phrase
