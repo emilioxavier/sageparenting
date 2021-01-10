@@ -11,7 +11,7 @@ Authors@R: person(given="Emilio Xavier",
                     comment=c("ORCID"="0000-0002-6193-0485"))
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/emilioxavier/sageparenting
-BugReports: https://github.com/emilioxavier/sageparenting/issues
+URL: https://github.com/emilioxavier/sageparenting/
+BugReports: https://github.com/emilioxavier/sageparenting/issues/
 RoxygenNote: 7.1.1
 Encoding: UTF-8

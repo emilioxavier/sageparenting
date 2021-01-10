@@ -5,7 +5,7 @@
 \alias{frown}
 \title{Text-based Frowns}
 \format{
-An object of class \code{character} of length 28.
+An object of class \code{character} of length 30.
 }
 \usage{
 frown

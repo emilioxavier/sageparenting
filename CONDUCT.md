@@ -60,7 +60,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders (specifically, [Emilio](https://github.com/emilioxavier))
+reported to the community leaders (specifically, [Emilio](https://github.com/emilioxavier/))
 responsible for enforcement at <emilio.esposito@gmail.com>.
 All complaints will be reviewed and investigated promptly and fairly.
 

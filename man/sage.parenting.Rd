@@ -22,7 +22,7 @@ Are you a child of the 1980s or 1990s? Where your parents the
 \examples{
 set.seed(13)
 sage.parenting()
-# [1] "JESUS CHRIST! If you don't stop acting like this, we will go home right now. :@"
+# [1] "JESUS CHRIST! If you don't stop acting like this, we will go home right now. >:["
 
 }
 \author{

@@ -1,23 +1,23 @@
 
 <!-- README.md is generated from README.Rmd. Please edit README.Rmd. -->
 
-# sageparenting: Mom and dad in your console.
-
-> “I’ll give you something to cry about.” – Dad, circa 1985
-
 <!-- badges: start -->
 
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
-developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-[![CRAN\_Release\_Badge](http://www.r-pkg.org/badges/version-ago/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
-[![CRAN\_Download\_Badge](http://cranlogs.r-pkg.org/badges/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/)
+[![CRAN\_Release\_Badge](https://www.r-pkg.org/badges/version-ago/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
+[![CRAN\_Download\_Badge](https://cranlogs.r-pkg.org/badges/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
 <!-- badges: end -->
+
+# sageparenting: Mom and Dad in your console.
+
+> “I’ll give you something to cry about.” – Dad, circa 1985
 
 ## Installing `sageparenting`
 
 `sageparenting` is available on
-[GitHub](https://github.com/emilioxavier/sageparenting) and on
+[GitHub](https://github.com/emilioxavier/sageparenting/) and on
 [CRAN](https://cran.r-project.org/package=sageparenting). To install it:
 
 ``` r
@@ -34,22 +34,25 @@ devtools::install_github("emilioxavier/sageparenting")
 ``` r
 library(sageparenting)
 sage.parenting()
-#> [1] "~~~Mutters 'Why Dear God?'~~~ Don't make me raise my voice. :{"
+#> [1] "~~~Mutters 'Why me?'~~~ I didn't raise a selfish brat. :c"
 ```
 
 ## Have a suggestion? Need help? Found a bug?
 
-  - Contact [Emilio](https://github.com/emilioxavier) at
+  - Contact [Emilio](https://github.com/emilioxavier/) at
     <emilio.esposito@gmail.com>
   - Submit an [issue via
-    GitHub](https://github.com/emilioxavier/sageparenting/issues)
+    GitHub](https://github.com/emilioxavier/sageparenting/issues/)
 
 ## Code of conduct
 
+**Just because our parents said hurtful things to us doesn’t mean we
+should say them to each other.**
+
 Please note that this project is released with a [Contributor Code of
-Conduct](CONDUCT.md). By participating in this project you agree to
-abide by its terms.
+Conduct](https://github.com/emilioxavier/sageparenting/blob/master/CONDUCT.md).
+By participating in this project you agree to abide by its terms.
 
 ## License
 
-MIT © [Emilio Xavier Esposito](https://github.com/emilioxavier)
+MIT © [Emilio Xavier Esposito](https://github.com/emilioxavier/)
