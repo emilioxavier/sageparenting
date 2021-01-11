@@ -1,6 +1,5 @@
 
 <!-- README.md is generated from README.Rmd. Please edit README.Rmd. -->
-
 <!-- badges: start -->
 
 [![Project Status: Active - The project has reached a stable, usable
@@ -34,14 +33,16 @@ devtools::install_github("emilioxavier/sageparenting")
 ``` r
 library(sageparenting)
 sage.parenting()
-#> [1] "~~~Mutters 'Why me?'~~~ I didn't raise a selfish brat. :c"
+#> [1] "~~~Mutters 'Why Dear God?'~~~ If I have to take you out of here. :-/"
 ```
 
 ## Have a suggestion? Need help? Found a bug?
 
-  - Contact [Emilio](https://github.com/emilioxavier/) at
+-   Submit a suggestion via a [Google
+    Form](https://forms.gle/Kek9PZpfDpx1XnLL6)
+-   Contact [Emilio](https://github.com/emilioxavier/) at
     <emilio.esposito@gmail.com>
-  - Submit an [issue via
+-   Submit an [issue via
     GitHub](https://github.com/emilioxavier/sageparenting/issues/)
 
 ## Code of conduct

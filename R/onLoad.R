@@ -12,7 +12,7 @@
   packageStartupMessage("  gardian is being abusive towards you beyond just having a")
   packageStartupMessage("  bad day, please contact https://dayoneservices.org/verbal-abuse/.")
   packageStartupMessage("  ")
-  packageStartupMessage("  Please submit recommendations for sageparenting here:")
+  packageStartupMessage("  Please submit suggestions for sageparenting here:")
   packageStartupMessage("  https://forms.gle/Kek9PZpfDpx1XnLL6")
   packageStartupMessage("********************************************************\n")
 }
