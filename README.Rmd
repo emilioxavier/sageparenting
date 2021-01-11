@@ -48,6 +48,7 @@ sage.parenting()
 
 ## Have a suggestion? Need help? Found a bug?
 
+* Submit a suggestion via a [Google Form](https://forms.gle/Kek9PZpfDpx1XnLL6)
 * Contact [Emilio](https://github.com/emilioxavier/) at emilio.esposito@gmail.com
 * Submit an [issue via GitHub](https://github.com/emilioxavier/sageparenting/issues/)
 
