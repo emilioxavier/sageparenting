@@ -1,5 +1,4 @@
 #' @title Sage Parenting
-#' @name sageparenting
 #' @description Just your average 1980s/1990s parent.
 #'
 #' @name sageparenting

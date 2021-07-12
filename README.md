@@ -5,8 +5,8 @@
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/)
-[![CRAN\_Release\_Badge](https://www.r-pkg.org/badges/version-ago/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
-[![CRAN\_Download\_Badge](https://cranlogs.r-pkg.org/badges/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
+<!-- [![CRAN_Release_Badge](https://www.r-pkg.org/badges/version-ago/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
+[![CRAN_Download_Badge](https://cranlogs.r-pkg.org/badges/sageparenting)](https://CRAN.R-project.org/package=sageparenting) -->
 <!-- badges: end -->
 
 # sageparenting: Mom and Dad in your console.
@@ -20,10 +20,7 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 [CRAN](https://cran.r-project.org/package=sageparenting). To install it:
 
 ``` r
-# The easiest way to get sageparenting is:
-install.packages("sageparenting")
-
-# Or get the development version from GitHub:
+# The easiest way to get sageparenting is from GitHub:
 install.packages("devtools")
 devtools::install_github("emilioxavier/sageparenting")
 ```
@@ -32,8 +29,21 @@ devtools::install_github("emilioxavier/sageparenting")
 
 ``` r
 library(sageparenting)
+#> 
+#> ********************************************************
+#> Note: This package is a cathartics exercise.
+#>   Remember, just because our parents said hurtful things
+#>   things to us doesn't mean we have to continue the cycle.
+#> 
+#>   Verbal abuse is a serious problem. If you feel your parent/
+#>   gardian is being abusive towards you beyond just having a
+#>   bad day, please contact https://dayoneservices.org/verbal-abuse/.
+#> 
+#>   Please submit suggestions for sageparenting here:
+#>   https://forms.gle/Kek9PZpfDpx1XnLL6
+#> ********************************************************
 sage.parenting()
-#> [1] "~~~Mutters 'Why Dear God?'~~~ If I have to take you out of here. :-/"
+#> [1] "Really?     Look at me when I'm talking to you. >:/"
 ```
 
 ## Have a suggestion? Need help? Found a bug?

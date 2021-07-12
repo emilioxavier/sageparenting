@@ -1,9 +1,8 @@
 Package: sageparenting
 Title: Sage Parenting
 Description: Just your average 1980s/1990s parent.
-Version: 1.0.0
-Date: 2021-01-11
-Depends: R (>= 3.6.0)
+Version: 1.0.1
+Depends: R (>= 4.0)
 Authors@R: person(given="Emilio Xavier",
                     family="Esposito",
                     role=c("aut", "cre"),
