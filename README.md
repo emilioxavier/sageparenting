@@ -5,6 +5,8 @@
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/)
+[![Contributor
+Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 <!-- [![CRAN_Release_Badge](https://www.r-pkg.org/badges/version-ago/sageparenting)](https://CRAN.R-project.org/package=sageparenting)
 [![CRAN_Download_Badge](https://cranlogs.r-pkg.org/badges/sageparenting)](https://CRAN.R-project.org/package=sageparenting) -->
 <!-- badges: end -->
@@ -15,9 +17,8 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 
 ## Installing `sageparenting`
 
-`sageparenting` is available on
-[GitHub](https://github.com/emilioxavier/sageparenting/) and on
-[CRAN](https://cran.r-project.org/package=sageparenting). To install it:
+`sageparenting` is *ONLY* available on
+[GitHub](https://github.com/emilioxavier/sageparenting/). To install it:
 
 ``` r
 # The easiest way to get sageparenting is from GitHub:
@@ -33,7 +34,7 @@ library(sageparenting)
 #> ********************************************************
 #> Note: This package is a cathartics exercise.
 #>   Remember, just because our parents said hurtful things
-#>   things to us doesn't mean we have to continue the cycle.
+#>   to us doesn't mean we have to continue the cycle.
 #> 
 #>   Verbal abuse is a serious problem. If you feel your parent/
 #>   gardian is being abusive towards you beyond just having a
@@ -43,7 +44,7 @@ library(sageparenting)
 #>   https://forms.gle/Kek9PZpfDpx1XnLL6
 #> ********************************************************
 sage.parenting()
-#> [1] "Really?     Look at me when I'm talking to you. >:/"
+#> [1] "Ohh. Oh! No.     Don't fear God, fear me. D:"
 ```
 
 ## Have a suggestion? Need help? Found a bug?
@@ -52,7 +53,7 @@ sage.parenting()
     Form](https://forms.gle/Kek9PZpfDpx1XnLL6)
 -   Contact [Emilio](https://github.com/emilioxavier/) at
     <emilio.esposito@gmail.com>
--   Submit an [issue via
+-   Submit a [request or issue via
     GitHub](https://github.com/emilioxavier/sageparenting/issues/)
 
 ## Code of conduct
