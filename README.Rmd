@@ -25,7 +25,7 @@ knitr::opts_chunk$set(
 
 ## Installing `sageparenting`
 
-`sageparenting` is available on [GitHub](https://github.com/emilioxavier/sageparenting/) and on [CRAN](https://cran.r-project.org/package=sageparenting). To install it:
+`sageparenting` is _ONLY_ available on [GitHub](https://github.com/emilioxavier/sageparenting/). To install it:
 
 ```{r, eval=FALSE}
 # The easiest way to get sageparenting is from GitHub:
@@ -47,7 +47,7 @@ sage.parenting()
 
 * Submit a suggestion via a [Google Form](https://forms.gle/Kek9PZpfDpx1XnLL6)
 * Contact [Emilio](https://github.com/emilioxavier/) at emilio.esposito@gmail.com
-* Submit an [issue via GitHub](https://github.com/emilioxavier/sageparenting/issues/)
+* Submit a [request or issue via GitHub](https://github.com/emilioxavier/sageparenting/issues/)
 
 
 ## Code of conduct
